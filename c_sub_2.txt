@@ -1,0 +1,1 @@
+this file is created in branch sub_2, which is derived from master branch and this is first commit in this file.it is contain the commit of master branch beacause it is created after the first commit of master branch.
